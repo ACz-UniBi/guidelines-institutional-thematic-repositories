@@ -52,8 +52,8 @@ Each OpenAIRE field is described in detail by
 * definition and usage instructions with regard to allowed values in properties, sub-properties and attributes
 * example(s)
 
-Acknowledgements & Contributors
--------------------------------
+Acknowledgments & Contributors
+------------------------------
 
 **Editors**
 

@@ -25,9 +25,9 @@ This documentation uses the following namespace abbreviations:
 * ``datacite``: http://datacite.org/schema/kernel-4
 * ``oaire``: http://namespace.openaire.eu/schema/oaire/
 
-======================================== ============================= ========================================================================================
-OpenAIRE-Field                           Metadata Element              Refinement by Vocabulary
-======================================== ============================= ========================================================================================
+======================================== ============================= ================================================================================ ==========
+OpenAIRE-Field                           Metadata Element              Refinement by Vocabulary                                                         FAIR
+======================================== ============================= ================================================================================ ==========
 :ref:`dci:title`                         datacite:title                :ref:`title type <vocab:titletype_titletype>`
 :ref:`dci:creator`                       datacite:creator              :ref:`name type <vocab:nametype_nametype>`
 :ref:`dci:contributor`                   datacite:contributor          | :ref:`name type <vocab:nametype_nametype>`
@@ -44,7 +44,7 @@ OpenAIRE-Field                           Metadata Element              Refinemen
 :ref:`aire:resourceType`                 oaire:resourceType            `COAR Resource Type Vocabulary`_
 :ref:`dc:description`                    dc:description
 :ref:`dc:format`                         dc:format
-:ref:`dci:identifier`                    datacite:identifier           :ref:`identifier type <vocab:identifiertype_identifiertype>`
+:ref:`dci:identifier`                    datacite:identifier           :ref:`identifier type <vocab:identifiertype_identifiertype>`                     RDA-F1-02M
 :ref:`dci:accessrights`                  datacite:rights               `COAR Access Right Vocabulary`_
 :ref:`dc:source`                         dc:source
 :ref:`dci:subject`                       datacite:subject              
@@ -63,7 +63,7 @@ OpenAIRE-Field                           Metadata Element              Refinemen
 :ref:`aire:citationConferencePlace`      oaire:citationConferencePlace
 :ref:`aire:citationConferenceDate`       oaire:citationConferenceDate
 :ref:`dct:audience`                      dcterms:audience
-======================================== ============================= ========================================================================================
+======================================== ============================= ================================================================================ ==========
 
 The application profile is implemented in XML Schema.
 `The files <https://github.com/openaire/guidelines-literature-repositories/tree/master/schemas>`_ 

@@ -2,7 +2,10 @@
 
 Resource Identifier (M)
 =======================
-
+.. image:: _static/FAIR_element.png
+    :width: 60px
+    :align: right
+    
 ``datacite:identifier``
 
 Cardinality

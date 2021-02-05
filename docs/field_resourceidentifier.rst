@@ -2,19 +2,20 @@
 
 Resource Identifier (M)
 =======================
+
+``datacite:identifier``
+
 .. image:: _static/FAIR_element.png
     :width: 100px
     :align: right
 
 .. table:: FAIR principles element
-    :widths: 20 30
+    :widths: 16 30
     :align:  right
 
-    +-------------+-----------------+
-    |RDA-F1-02M   | global unique id|
-    +-------------+-----------------+
-
-``datacite:identifier``
+    +------------+------------------+
+    |RDA-F1-02M  | global unique id |
+    +------------+------------------+
 
 Cardinality
 ~~~~~~~~~~~

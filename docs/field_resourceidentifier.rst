@@ -5,7 +5,14 @@ Resource Identifier (M)
 .. image:: _static/FAIR_element.png
     :width: 100px
     :align: right
-    
+
+.. table:: This is my table
+    :widths: 20 30
+
+    +-------------+-----------------+
+    |RDA-F1-02M   | global unique id|
+    +-------------+-----------------+
+
 ``datacite:identifier``
 
 Cardinality

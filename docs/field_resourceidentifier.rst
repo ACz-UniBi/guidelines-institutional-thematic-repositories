@@ -7,7 +7,6 @@
 .. table:: FAIR principles element
     :widths: 16 30
     :align:  right
-    :text-shadow: 2px 2px
 
     +------------+------------------+
     |RDA-F1-02M  | global unique id |

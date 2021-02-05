@@ -61,6 +61,7 @@ Acknowledgments & Contributors
 
 * Jochen Schirrwagen (Bielefeld University, Germany)
 * Miriam Baglioni (CNR, Italy)
+* Andreas Czerniak (Bielefeld University, Germany)
 
 **Experts & Reviewers**
 
@@ -69,7 +70,6 @@ Acknowledgments & Contributors
 * Pedro Principe (University of Minho, Portugal)
 * Paolo Manghi (CNR, Italy)
 * Aenne Loehden (Bielefeld University, Germany)
-* Andreas Czerniak (Bielefeld University, Germany)
 * Amelie Bäcker (Bielefeld University, Germany)
 
 *LA Referencia*
@@ -95,6 +95,10 @@ Acknowledgments & Contributors
 
 Versions
 --------
+* 4.1 draft, January 2021
+
+  * Corrections, refined examples, enhance provenance elemnt 
+
 * 4.0, November 2018 `doi:10.5281/zenodo.1299203 <http://dx.doi.org/10.5281/zenodo.1299203>`_
 
 * 4.0 draft, November 2017

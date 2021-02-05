@@ -44,6 +44,8 @@ Description of Indicators
 |            | unique       |                                                                                              |
 |            | identifier   |                                                                                              |
 +------------+--------------+----------------------------------------------------------------------------------------------+
+|            |              |                                                                                              |
++------------+--------------+----------------------------------------------------------------------------------------------+
 | RDA-A1-04M | Metadata is  | The indicator concerns the protocol through which the metadata is accessed and requires the  |
 |            | accessed     | protocol to be defined in a standard.                                                        |
 |            | through      |                                                                                              |

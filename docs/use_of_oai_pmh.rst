@@ -62,6 +62,9 @@ In accordance with the `OAI-PMH guidelines <http://www.openarchives.org/OAI/2.0/
           <metadataNamespace>
             http://www.openarchives.org/OAI/2.0/oai_dc/
           </metadataNamespace>
+          <repositoryId>opendoar:98765</repositoryId>
+          <repositoryName>DSpace Library</repositoryName>
+          <repository id="opendoar:98765">DSpace Library</repository>
         </originDescription>
       </provenance>
     </about>

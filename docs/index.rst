@@ -10,5 +10,6 @@ These guidelines describe the application profile v4 for institutional and thema
    introduction
    use_of_oai_pmh
    application_profile
+   fair_maturity
 
 .. include:: contribute.rst

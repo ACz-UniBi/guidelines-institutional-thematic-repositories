@@ -84,7 +84,7 @@ Each originDescription must also have the following two attributes which relate 
 * harvestDate - the responseDate of the OAI-PMH response that resulted in the record being harvested from the originating repository.
 * altered - a boolean value which must be true if the harvested record was altered before being disseminated again.
 
-And a PoC extension for the aggregator community we wanted to make the proposal for two more elements to map the non-persistent identifier of the OAI-PMH protocol for a repsoitory:
+And a PoC extension for the aggregator community we wanted to make the proposal for two more elements to reflect the non-persistent identifier of the OAI-PMH protocol for a repsoitory:
 
 * repositoryId - structured with registry with controlled vocabulary: `opendoar <https://https://v2.sherpa.ac.uk/opendoar/>`_, `re3data <https://re3data.org>`_, `doaj <https://doaj.org>`_, 
   and `dris <https://dspacecris.eurocris.org/cris/explore/dris>`_ and followed by the registryId (without precending zeros), eg. ``dris:98765``.

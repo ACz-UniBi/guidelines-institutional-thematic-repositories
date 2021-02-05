@@ -1,18 +1,5 @@
 .. _dci:identifier:
 
-.. image:: _static/FAIR_element.png
-    :width: 100px
-    :align: right
-
-.. table:: FAIR principles element
-    :widths: 16 30
-    :align:  right
-
-    +------------+------------------------+
-    |RDA-F1-02M  | Metadata is identified |
-    |            | by a global unique id  |
-    +------------+------------------------+
-
 Resource Identifier (M)
 =======================
 

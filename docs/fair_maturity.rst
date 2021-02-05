@@ -23,18 +23,31 @@ Three levels of importance are defined:
   conversely, FAIRness would be practically impossible toachieve if the indicator were not satisfied.
   
 * **Important**: 
+
   such an indicator addresses an aspect that might not be of the utmost importance  under  specific  circumstances,  but  
   its  satisfaction,  if  at  all  possible,would substantially increase FAIRness.
   
 * **Useful**: 
+
   such an indicator addresses an aspect that is nice-to-have but is not could indicator MAY be satisfied, but not necessarily indispensable.
 
 
 Description of Indicators
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+------------+----------------------------------------------------------------------------------------------+
-| RDA-F1-02M | This  indicator  is  linked  to  the  following  principle: F1  (meta)data  are  assigned  a |
-|            | globally unique and eternally persistent identifier. More information about that principle   |
-|            | can be found here.                                                                           |
-+------------+----------------------------------------------------------------------------------------------+
++------------+--------------+----------------------------------------------------------------------------------------------+
+| Indicator  | short        | Description                                                                                  |
++============+==============+==============================================================================================+
+| RDA-F1-02M | Metadata is  | The indicator serves to evaluate whether the identifier of the metadata is globallyunique,   |
+|            | identified   | i.e. that there are no two identical identifiers that identify different metadata records.   |
+|            | by a globally|                                                                                              |
+|            | unique       |                                                                                              |
+|            | identifier   |                                                                                              |
++------------+--------------+----------------------------------------------------------------------------------------------+
+| RDA-A1-04M | Metadata is  | The indicator concerns the protocol through which the metadata is accessed and requires the  |
+|            | accessed     | protocol to be defined in a standard.                                                        |
+|            | through      |                                                                                              |
+|            | standardised |                                                                                              |
+|            | protocol     |                                                                                              |
++------------+--------------+----------------------------------------------------------------------------------------------+
+

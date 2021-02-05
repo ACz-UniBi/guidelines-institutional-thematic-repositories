@@ -57,7 +57,7 @@ FAIR element
 ~~~~~~~~~~~~
 
 +------------+-----------+------------------------+
-|RDA-F1-02M  | `essential _fair_priorities`_ | Metadata is identified |
+|RDA-F1-02M  | essential | Metadata is identified |
 |            |           | by a global unique id  |
 +------------+-----------+------------------------+
 

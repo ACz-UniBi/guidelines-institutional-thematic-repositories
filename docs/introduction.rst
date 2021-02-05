@@ -5,7 +5,7 @@ Introduction
 
 Aim
 ---
-The OpenAIRE Guidelines for Literature Repository Managers 4.0 provide
+The OpenAIRE Guidelines for institutional and thematic Repository Managers 4.0 provide
 orientation for repository managers to define and implement their local data
 management policies according to the requirements of the `OpenAIRE - Open Access
 Infrastructure for Research in Europe <http://www.openaire.eu>`_.
@@ -24,7 +24,7 @@ Open Access requirements, and eventually also the requirements of other
 but also incorporating their publications into the OpenAIRE infrastructure for
 discoverability and utilizing value-added services provided by the OpenAIRE portal.
 
-The OpenAIRE Guidelines for Literature Repository Managers 4.0 are 
+The OpenAIRE Guidelines for institutional and thematic Repository Managers 4.0 are 
 part of a set of OpenAIRE Guidelines that also include the OpenAIRE Guidelines
 for Data Archive Managers, the OpenAIRE Guidelines for CRIS managers, the OpenAIRE Guidelines for Software Repository Managers, and the Guidelines for Other Research Products Repository Managers.
 
@@ -33,6 +33,8 @@ What's new
 In comparison with previous versions of the Guidelines, this version introduces
 the following major changes:
 
+* convering of FAIR principles
+* proof of concept: enhancement of provenance information of with repositoryId's and repositoryName's for Aggregators
 * an application profile and schema based on Dublin Core and DataCite incl. a new OAI-metadataPrefix
 * support of identifier schemes for authors, organizations, funders, scholarly resources
 * introduction of COAR Controlled Vocabularies

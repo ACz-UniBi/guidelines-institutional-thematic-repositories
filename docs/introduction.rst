@@ -33,7 +33,7 @@ What's new
 In comparison with previous versions of the Guidelines, this version introduces
 the following major changes:
 
-* convering of FAIR principles
+* covering of FAIR principles elements
 * proof of concept: enhancement of provenance information of with repositoryId's and repositoryName's for Aggregators
 * an application profile and schema based on Dublin Core and DataCite incl. a new OAI-metadataPrefix
 * support of identifier schemes for authors, organizations, funders, scholarly resources

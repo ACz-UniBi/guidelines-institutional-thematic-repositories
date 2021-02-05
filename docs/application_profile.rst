@@ -74,12 +74,12 @@ In the XML metadata documents the schema must be declared as follows:
 .. code-block:: xml
    :linenos:
 
-   <resource xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   <oaire:resource xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:dcterms="http://purl.org/dc/terms/"
      xmlns:datacite="http://datacite.org/schema/kernel-4"
-     xmlns="http://namespace.openaire.eu/schema/oaire/"
+     xmlns:oaire="http://namespace.openaire.eu/schema/oaire/"
      xsi:schemaLocation="http://namespace.openaire.eu/schema/oaire/ https://www.openaire.eu/schema/repo-lit/4.0/openaire.xsd">
 
 .. _COAR Resource Type Vocabulary: http://vocabularies.coar-repositories.org/documentation/resource_types/

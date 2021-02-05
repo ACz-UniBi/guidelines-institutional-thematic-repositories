@@ -64,6 +64,15 @@ The type of the Identifier (occurrences: 1).
 .. note::
    Unlike DataCite, OpenAIRE allows for DOIs and other types of identifiers.
 
+
+.. table:: FAIR principles element
+    :widths: 16 30
+
+    +------------+------------------------+
+    |RDA-F1-02M  | Metadata is identified |
+    |            | by a global unique id  |
+    +------------+------------------------+
+
 Example
 ~~~~~~~
 

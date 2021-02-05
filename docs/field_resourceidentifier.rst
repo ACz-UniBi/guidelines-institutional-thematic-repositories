@@ -53,10 +53,12 @@ The type of the Identifier (occurrences: 1).
 
 
 
-FAIR element
-~~~~~~~~~~~~
+`FAIR maturity Overview`_
+~~~~~~~~~~~~~~~~~~~~~~
 
 +------------+-----------+------------------------+
+| Indicator  | Priority  | Description            |
++============+============+=======================+
 |RDA-F1-02M  | essential | Metadata is identified |
 |            |           | by a global unique id  |
 +------------+-----------+------------------------+

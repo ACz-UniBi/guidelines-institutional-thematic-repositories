@@ -64,7 +64,9 @@ In accordance with the `OAI-PMH guidelines <http://www.openarchives.org/OAI/2.0/
           </metadataNamespace>
           <repositoryId>opendoar:98765</repositoryId>
           <repositoryName>DSpace Library</repositoryName>
+          <!-- alternative approach 
           <repository id="opendoar:98765">DSpace Library</repository>
+           -->
         </originDescription>
       </provenance>
     </about>
@@ -82,7 +84,7 @@ Each originDescription must also have the following two attributes which relate 
 * harvestDate - the responseDate of the OAI-PMH response that resulted in the record being harvested from the originating repository.
 * altered - a boolean value which must be true if the harvested record was altered before being disseminated again.
 
-And a PoC-extension as community suggestion of two more elements to reflect the non-persitstent identifier of OAI-PMH:
+And a PoC-extension as community suggestion of two more elements to reflect the non-persistent identifier of OAI-PMH:
 
 * repositoryId - structured with registry with controlled vocabulary: OpenDOAR, Re3Data, DRIS and the registryId.
 * repositoryName - human readable name of the repository.

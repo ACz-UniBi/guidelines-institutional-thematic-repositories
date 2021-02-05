@@ -1,10 +1,5 @@
 .. _dci:identifier:
 
-Resource Identifier (M)
-=======================
-
-``datacite:identifier``
-
 .. image:: _static/FAIR_element.png
     :width: 100px
     :align: right
@@ -12,10 +7,16 @@ Resource Identifier (M)
 .. table:: FAIR principles element
     :widths: 16 30
     :align:  right
+    :text-shadow: 2px 2px
 
     +------------+------------------+
     |RDA-F1-02M  | global unique id |
     +------------+------------------+
+
+Resource Identifier (M)
+=======================
+
+``datacite:identifier``
 
 Cardinality
 ~~~~~~~~~~~

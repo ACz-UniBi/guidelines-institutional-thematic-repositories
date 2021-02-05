@@ -17,15 +17,24 @@ Priorities
 
 Three levels of importance are defined:
 
-* Essential: 
+* **Essential**: 
+
   such an indicator addresses an aspect that is of the utmost importance to achieve FAIRness under most circumstances, or, 
   conversely, FAIRness would be practically impossible toachieve if the indicator were not satisfied.
   
-* Important: 
+* **Important**: 
   such an indicator addresses an aspect that might not be of the utmost importance  under  specific  circumstances,  but  
   its  satisfaction,  if  at  all  possible,would substantially increase FAIRness.
   
-* Useful: 
+* **Useful**: 
   such an indicator addresses an aspect that is nice-to-have but is not could indicator MAY be satisfied, but not necessarily indispensable.
 
 
+Description of Indicators
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
++------------+----------------------------------------------------------------------------------------------+
+| RDA-F1-02M | This  indicator  is  linked  to  the  following  principle: F1  (meta)data  are  assigned  a |
+|            | globally unique and eternally persistent identifier. More information about that principle   |
+|            | can be found here.                                                                           |
++------------+----------------------------------------------------------------------------------------------+

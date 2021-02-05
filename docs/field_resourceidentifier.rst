@@ -8,9 +8,10 @@
     :widths: 16 30
     :align:  right
 
-    +------------+----------------------------------------------+
-    |RDA-F1-02M  | Metadata is identified by a global unique id |
-    +------------+----------------------------------------------+
+    +------------+------------------------+
+    |RDA-F1-02M  | Metadata is identified |
+    |            | by a global unique id  |
+    +------------+------------------------+
 
 Resource Identifier (M)
 =======================

@@ -65,13 +65,13 @@ The type of the Identifier (occurrences: 1).
    Unlike DataCite, OpenAIRE allows for DOIs and other types of identifiers.
 
 
-.. table:: FAIR principles element
-    :widths: 16 30
+.. table:: FAIR element
+    :widths: 16 20 30
 
-    +------------+------------------------+
-    |RDA-F1-02M  | Metadata is identified |
-    |            | by a global unique id  |
-    +------------+------------------------+
+    +------------+-----------+------------------------+
+    |RDA-F1-02M  | `essential _fair_priorities`_ | Metadata is identified |
+    |            |           | by a global unique id  |
+    +------------+-----------+------------------------+
 
 Example
 ~~~~~~~

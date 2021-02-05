@@ -86,7 +86,8 @@ Each originDescription must also have the following two attributes which relate 
 
 And a PoC-extension as community suggestion of two more elements to reflect the non-persistent identifier of OAI-PMH:
 
-* repositoryId - structured with registry with controlled vocabulary: OpenDOAR, Re3Data, DRIS and the registryId.
+* repositoryId - structured with registry with controlled vocabulary: `opendoar <https://https://v2.sherpa.ac.uk/opendoar/>`_, `re3data <https://re3data.org>`_, `doaj <https://doaj.org>`_, 
+  and `dris <https://dspacecris.eurocris.org/cris/explore/dris>`_ and followed by the registryId (without precending zeros), eg. ``dris:98765``.
 * repositoryName - human readable name of the repository.
 
 

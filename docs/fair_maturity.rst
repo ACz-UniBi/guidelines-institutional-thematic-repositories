@@ -35,21 +35,29 @@ Three levels of importance are defined:
 Description of Indicators
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+------------+--------------+----------------------------------------------------------------------------------------------+
-| Indicator  | short        | Description                                                                                  |
-+============+==============+==============================================================================================+
-| RDA-F1-02M | Metadata is  | The indicator serves to evaluate whether the identifier of the metadata is globallyunique,   |
-|            | identified   | i.e. that there are no two identical identifiers that identify different metadata records.   |
-|            | by a globally|                                                                                              |
-|            | unique       |                                                                                              |
-|            | identifier   |                                                                                              |
-+------------+--------------+----------------------------------------------------------------------------------------------+
-|            |              |                                                                                              |
-+------------+--------------+----------------------------------------------------------------------------------------------+
-| RDA-A1-04M | Metadata is  | The indicator concerns the protocol through which the metadata is accessed and requires the  |
-|            | accessed     | protocol to be defined in a standard.                                                        |
-|            | through      |                                                                                              |
-|            | standardised |                                                                                              |
-|            | protocol     |                                                                                              |
-+------------+--------------+----------------------------------------------------------------------------------------------+
++------------+--------------+--------------------------------------------------------+----------------------+
+| Indicator  | short        | Description                                            | Field                |
++============+==============+========================================================+======================+
+| RDA-F1-02M | Metadata is  | The indicator serves to evaluate whether the           |                      |
+|            |              |                                                        |                      |
+|            | identified   | identifier of the metadata is globally unique,         |                      |
+|            |              |                                                        |                      |
+|            | by a globally| i.e. that there are no two identical identifiers       |                      |
+|            |              |                                                        |                      |
+|            | unique       | that identify different metadata records.              |                      |
+|            |              |                                                        |                      |
+|            | identifier   |                                                        |                      |
++------------+--------------+--------------------------------------------------------+----------------------+
+|            |              |                                                        |                      |
++------------+--------------+--------------------------------------------------------+----------------------+
+| RDA-A1-04M | Metadata is  | The indicator concerns the protocol through which      |                      |
+|            |              |                                                        |                      |
+|            | accessed     | the metadata is accessed and requires the              |                      |
+|            |              |                                                        |                      |
+|            | through      | protocol to be defined in a standard.                  |                      |
+|            |              |                                                        |                      |
+|            | standardised |                                                        |                      |
+|            |              |                                                        |                      |
+|            | protocol     |                                                        |                      |
++------------+--------------+--------------------------------------------------------+----------------------+
 

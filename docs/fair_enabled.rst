@@ -3,9 +3,9 @@
 FAIR enabled
 ============
 
-The OpenAIRE Guidelines epsecially the Literature and DRIVER Guidelines focus elements of the FAIR principles since beginning in 2008. Community based refine and 
-enhancement of guidelines over time add elements with their descriptions which are according to motivation of FAIR. 
-The following section describe FAIRification process of the institutional & thematic Guidelines.
+The OpenAIRE and DRIVER guidelines, at the beginning of their time in 2008, had already put the focus on elements that can be found today in the FAIR principles.
+Community-based refinement and enhancement of the guidelines over time to include elements with their descriptions that are consistent with motivation of FAIR. 
+The following section describe the FAIRification process of the OpenAIRE Guidelines for institutional & thematic Repository Manager.
 
 .. _fair_overview:
 
@@ -18,6 +18,16 @@ they manage.
 
 The indicators shown in the above document have different priorities. The section below is an indication of how to classify elements in our OpenAIRE guidelines for determining the 
 FAIRness of a repository.
+
+
+
+.. image:: _static/FAIR-Indicator_InstThemRepoGuidelines.png
+    :width: 200px
+    :align: center
+    :alt: analyzed FAIR Indicator for the OpenAIRE Guidelines for Inst.&Thematic Repository managers
+
+
+
 
 .. _fair_priorities:
 

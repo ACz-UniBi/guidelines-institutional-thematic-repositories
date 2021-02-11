@@ -28,24 +28,3 @@ The result of this evaluation shows the figure below.
 
 
 
-.. _fair_priorities:
-
-Priorities
-~~~~~~~~~~
-
-Three levels of importance are defined in the specification:
-
-* **Essential**: 
-
-  such an indicator addresses an aspect that is of the utmost importance to achieve FAIRness under most circumstances, or, 
-  conversely, FAIRness would be practically impossible toachieve if the indicator were not satisfied.
-  
-* **Important**: 
-
-  such an indicator addresses an aspect that might not be of the utmost importance  under  specific  circumstances,  but  
-  its  satisfaction,  if  at  all  possible,would substantially increase FAIRness.
-  
-* **Useful**: 
-
-  such an indicator addresses an aspect that is nice-to-have but is not could indicator MAY be satisfied, but not necessarily indispensable.
-

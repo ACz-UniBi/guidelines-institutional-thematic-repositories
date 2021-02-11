@@ -53,7 +53,7 @@ The type of the Identifier (occurrences: 1).
 
 
 
-`FAIR related <fair_maturity.html>`_
+`FAIR enabled <fair_enabled.html>`_
 ~~~~~~~~~~~~
 
 +------------+-----------+------------------------+

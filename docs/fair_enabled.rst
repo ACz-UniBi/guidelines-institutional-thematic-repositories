@@ -23,8 +23,6 @@ The result of this evaluation shows the figure below.
 .. image:: _static/FAIR-Indicator_InstThemRepoGuidelines.png
     :width: 800px
     :align: center
-    :alt: analyzed FAIR Indicator for the OpenAIRE Guidelines for Inst.&Thematic Repository managers
-
-
+    :alt: analyzed FAIR Indicator for the OpenAIRE Guidelines for instiutional and thematic repository managers
 
 

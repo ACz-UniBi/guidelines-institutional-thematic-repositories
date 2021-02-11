@@ -16,9 +16,8 @@ The FAIR maturity model: specification and guidelines of the `Research Data Alli
 has the aim to specify the objective indicators for the FAIR assessment. The guidelines are intended to assist evaluators to implement the indicators in the evaluation approach or tool 
 they manage.
 
-The indicators shown in the above document have different priorities. The section below is an indication of how to classify elements in our OpenAIRE guidelines for determining the 
-FAIRness of a repository.
-
+The evaluation level analyse is done thru the RDA provided sheet at https://www.rd-alliance.org/system/files/FAIR_evaluation_levels_v0.01.xlsx . 
+The result of this evaluation shows the figure below.
 
 
 .. image:: _static/FAIR-Indicator_InstThemRepoGuidelines.png

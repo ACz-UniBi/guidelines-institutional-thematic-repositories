@@ -22,7 +22,7 @@ FAIRness of a repository.
 
 
 .. image:: _static/FAIR-Indicator_InstThemRepoGuidelines.png
-    :width: 200px
+    :width: 400px
     :align: center
     :alt: analyzed FAIR Indicator for the OpenAIRE Guidelines for Inst.&Thematic Repository managers
 

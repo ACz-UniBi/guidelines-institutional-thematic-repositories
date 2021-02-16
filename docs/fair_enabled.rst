@@ -3,7 +3,7 @@
 FAIR enabled
 ============
 
-The OpenAIRE and DRIVER guidelines, at the beginning of their time in 2008, had already put the focus on elements that can be found today in the FAIR principles.
+The OpenAIRE and DRIVER guidelines, at the beginning of their time in `2006 <https://www.openaire.eu/history>`_, had already put the focus on elements that can be found today in the FAIR principles.
 Community-based refinement and enhancement of the guidelines over time to include elements with their descriptions that are consistent with motivation of FAIR. 
 The following section describe the FAIRification process of the OpenAIRE Guidelines for institutional & thematic Repository Manager.
 
